@@ -16,3 +16,9 @@ This showcases the git command mini project on DevOps learning track, 3MTT cohor
 
 ### GIT Push command
 ![git push](./git_push.PNG)
+
+### GIT Repo dashboard
+![git repo](./git-repo-db.PNG)
+
+### GIT Dashboard
+![git dashboard](./git-dashboard.PNG)
